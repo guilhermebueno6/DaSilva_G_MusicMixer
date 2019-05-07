@@ -1,3 +1,3 @@
-# Music Mixer
+# Interactive Media Mixer with Fancy Drag and Drop!
 
-## Creating a Site that has the drag and drop features for mixing up music tracks
+Creating a drag and drop application with JS, HTML and CSS
